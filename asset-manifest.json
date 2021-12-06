@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SH-Survey/static/css/main.f66c7613.chunk.css",
+    "main.js": "/SH-Survey/static/js/main.ce967610.chunk.js",
+    "main.js.map": "/SH-Survey/static/js/main.ce967610.chunk.js.map",
+    "runtime-main.js": "/SH-Survey/static/js/runtime-main.d644d614.js",
+    "runtime-main.js.map": "/SH-Survey/static/js/runtime-main.d644d614.js.map",
+    "static/js/2.a2a4a4ed.chunk.js": "/SH-Survey/static/js/2.a2a4a4ed.chunk.js",
+    "static/js/2.a2a4a4ed.chunk.js.map": "/SH-Survey/static/js/2.a2a4a4ed.chunk.js.map",
+    "index.html": "/SH-Survey/index.html",
+    "static/css/main.f66c7613.chunk.css.map": "/SH-Survey/static/css/main.f66c7613.chunk.css.map",
+    "static/js/2.a2a4a4ed.chunk.js.LICENSE.txt": "/SH-Survey/static/js/2.a2a4a4ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d644d614.js",
+    "static/js/2.a2a4a4ed.chunk.js",
+    "static/css/main.f66c7613.chunk.css",
+    "static/js/main.ce967610.chunk.js"
+  ]
+}
